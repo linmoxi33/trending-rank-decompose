@@ -1,0 +1,47 @@
+{
+  "carried_climb_rate": 0.0,
+  "carried_climbs": [],
+  "date_first": "2026-11-14",
+  "date_last": "2026-11-15",
+  "order": {
+    "adjacent_pairs": 25,
+    "inversion_rate": 0.52,
+    "inversions": 13,
+    "per_snapshot_spearman": [
+      {
+        "date": "2026-11-14",
+        "spearman": -0.556352
+      },
+      {
+        "date": "2026-11-15",
+        "spearman": -0.421429
+      }
+    ],
+    "spearman_overall": -0.136225
+  },
+  "replay_sha256": "cb5990836d8b7b2d95f5f378403887cdba2461348f1ab6a18cfc737128c77d1e",
+  "snapshots": 2,
+  "totals": {
+    "carried_climbs": 0,
+    "churn_effect_sum": -1,
+    "climbs": 3,
+    "peer_effect_sum": 0,
+    "retained_pairs": 8
+  },
+  "transitions": [
+    {
+      "carried_climb_rate": 0.0,
+      "carried_climbs": 0,
+      "carried_repos": [],
+      "climbs": 3,
+      "date_cur": "2026-11-15",
+      "date_prev": "2026-11-14",
+      "debuts": 7,
+      "exits": 4,
+      "retained": 8,
+      "size_cur": 15,
+      "size_prev": 12
+    }
+  ],
+  "transitions_count": 1
+}
